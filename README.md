@@ -25,7 +25,7 @@ Expense Master follows an iterative development approach based on Agile principl
 ### Tools and Technologies
 - **Database Management**: MySQL Server
 - **Development Environment**: Visual Studio
-- **Backend Framework**: CodeIgniter
+- **Backend Framework**: Laravel
 - **Version Control**: Git (using GitHub for version control)
 - **Prototyping Tool**: Figma
 - **Cloud Computing**: Amazon Web Services (AWS)
